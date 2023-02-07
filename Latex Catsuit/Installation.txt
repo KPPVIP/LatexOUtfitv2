@@ -1,0 +1,8 @@
+---HOW TO INSTALL---
+
+Simply choose the option you want and then drop all the files inside the folder here:
+
+update\x64\dlcpacks\mpgunrunning\dlc.rpf\x64\models\cdimages\mpgunrunning_female.rpf\mp_f_freemode_01_mp_f_gunrunning_01
+
+Boom you're done!
+
